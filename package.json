@@ -1,13 +1,7 @@
 {
-<<<<<<< HEAD
-  "name": "git-test1",
-  "version": "1.0.0",
-  "description": "To test Git and Node ",
-=======
   "name": "confusion",
   "version": "1.0.0",
   "description": "This is a website for Ristorante Con Fusion",
->>>>>>> 876bfc0... Initial commit
   "main": "index.html",
   "scripts": {
     "start": "npm run lite",
