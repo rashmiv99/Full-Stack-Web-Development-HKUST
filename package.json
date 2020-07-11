@@ -8,32 +8,34 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "lite": "lite-server"
   },
-<<<<<<< HEAD
+
   "repository": {
     "type": "git",
     "url": "git+https://github.com/rashmiv99/Full-Stack-Web-Development-HKUST.git"
   },
+
   "author": "Rashmi Venkateshwaran",
   "license": "ISC",
+
   "bugs": {
     "url": "https://github.com/rashmiv99/Full-Stack-Web-Development-HKUST/issues"
   },
+
   "homepage": "https://github.com/rashmiv99/Full-Stack-Web-Development-HKUST#readme",
+
   "devDependencies": {
-    "lite-server": "^2.5.4"
-=======
-  "author": "",
-  "license": "ISC",
-  "devDependencies": {
-    "lite-server": "^2.3.0"
-<<<<<<< HEAD
->>>>>>> 876bfc0... Initial commit
-=======
-  },
-  "dependencies": {
-    "bootstrap": "^4.0.0",
-    "jquery": "^3.3.1",
-    "popper.js": "^1.12.9"
->>>>>>> da9b6b7... Intro to Bootstrap
-  }
+    "lite-server": "^2.5.4",
+    "author": "",
+    "license": "ISC",
+
+    "devDependencies": {
+      "lite-server": "^2.3.0"
+    },
+
+    "dependencies": {
+      "bootstrap": "^4.0.0",
+      "jquery": "^3.3.1",
+      "popper.js": "^1.12.9"
+    }
+}
 }
