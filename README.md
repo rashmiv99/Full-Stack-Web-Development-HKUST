@@ -1,4 +1,4 @@
-# Full Stack Web Development with React
+# Full Stack Web Development with React Specialization
 This repository contains all of the work I have completed during the course of Jogesh K. Muppala's <a href="https://www.coursera.org/specializations/full-stack-react">Full-Stack Web Development with React Specialization Courses</a>.<br>
 <i>Please note that this repository is incomplete, as the courses are still in progress.</i><br>
 # Certificates
